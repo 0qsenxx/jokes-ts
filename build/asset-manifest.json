@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.32973081.css",
-    "main.js": "/static/js/main.26b08663.js",
-    "static/media/filled-heart.png": "/static/media/filled-heart.59f3a2d0b9d5dea1c529.png",
-    "static/media/heart-svgrepo-com.svg": "/static/media/heart-svgrepo-com.1a9894f2a536fa538fcd3bcc3bbe51d0.svg",
-    "index.html": "/index.html",
-    "main.32973081.css.map": "/static/css/main.32973081.css.map",
-    "main.26b08663.js.map": "/static/js/main.26b08663.js.map"
+    "main.css": "/jokes-ts/static/css/main.32973081.css",
+    "main.js": "/jokes-ts/static/js/main.dd8070cf.js",
+    "static/media/filled-heart.png": "/jokes-ts/static/media/filled-heart.59f3a2d0b9d5dea1c529.png",
+    "static/media/heart-svgrepo-com.svg": "/jokes-ts/static/media/heart-svgrepo-com.1a9894f2a536fa538fcd3bcc3bbe51d0.svg",
+    "index.html": "/jokes-ts/index.html",
+    "main.32973081.css.map": "/jokes-ts/static/css/main.32973081.css.map",
+    "main.dd8070cf.js.map": "/jokes-ts/static/js/main.dd8070cf.js.map"
   },
   "entrypoints": [
     "static/css/main.32973081.css",
-    "static/js/main.26b08663.js"
+    "static/js/main.dd8070cf.js"
   ]
 }
